@@ -1,0 +1,9 @@
+KW_LUZ luz
+KW_SOMBRA sombra
+KW_TIERRA tierra
+KW_CIELO cielo
+KW_RIO rio
+KW_MAR mar
+KW_FLOR flor
+KW_HOJA hoja
+IDENTIFICADOR
