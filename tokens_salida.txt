@@ -1,0 +1,14 @@
+Token	Lexema
+
+ERROR_LEXICO	lu,z
+KW_SOMBRA	sombra
+IDENTIFICADOR	arbol
+KW_RIO	rio
+KW_MAR	mar
+KW_CIELO	cielo
+IDENTIFICADOR	x12
+KW_FLOR	flor
+KW_HOJA	hoja
+KW_SOMBRA	sombra
+KW_LUZ	luz
+ERROR_LEXICO	tierra..
