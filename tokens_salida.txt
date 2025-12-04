@@ -1,6 +1,6 @@
 Token	Lexema
 
-ERROR_LEXICO	lu,z
+ERROR_LEXICO	luz,,,
 KW_SOMBRA	sombra
 IDENTIFICADOR	arbol
 KW_RIO	rio
